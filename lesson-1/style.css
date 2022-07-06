@@ -1,0 +1,27 @@
+.head-wrapper {
+    background: #daa520 ;
+    color: black;
+}
+
+p{
+    background : #daa520 ;
+    color: black;
+}
+
+img {
+    max-width: 400px ;
+    min-width: 200px;
+}
+
+a {
+    text-decoration: none;
+    background: #daa520 ;
+    color: black;
+}
+
+
+ul {
+    background: #daa520 ;
+    color: black;
+}
+
