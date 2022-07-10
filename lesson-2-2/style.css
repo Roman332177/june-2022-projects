@@ -1,0 +1,61 @@
+.main-block {
+    width: 500px;
+    height: 250px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    font-size: 16px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    font-size: 24px;
+}
+
+.midle-block {
+    display: flex;
+
+}
+
+.litle-block {
+    width: 160px;
+    height: 160px;
+    background: #07074c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    margin: 10px;
+}
+
+.one {
+    margin: 10px 0 10px 0;
+}
+
+.three {
+    margin: 10px 0 10px 0;
+}
+
+.footer-block {
+    width: 500px;
+    height: 400px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all-wrapper {
+    align-items: center;
+    justify-content: center;
+    display: grid
+}
+
