@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="git-commit-m*&#10;git status">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_07_2022_20_26_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_07_2022_20_26__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson- 3-2/image/bars-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson- 3-2/image/magnifying-glass-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson- 3-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson- 3-2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/image/bowling-ball-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/image/bullseye-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/image/certificate-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4-2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-4/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_07_2022_20_26_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_07_2022_20_26__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +83,10 @@
       <workItem from="1657129865211" duration="1834000" />
       <workItem from="1657273320234" duration="9328000" />
       <workItem from="1657448939428" duration="5268000" />
-      <workItem from="1657658344719" duration="12208000" />
+      <workItem from="1657658344719" duration="12960000" />
+      <workItem from="1657974061325" duration="755000" />
+      <workItem from="1657998304447" duration="2920000" />
+      <workItem from="1658084348171" duration="7547000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657103771793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git-commit-m*&#10;git status">
+      <created>1657718991462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657718991462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
