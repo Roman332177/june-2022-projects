@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="norm">
-      <change afterPath="$PROJECT_DIR$/lesson-6-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-6-js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-7-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-7-js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,8 @@
       <workItem from="1658084348171" duration="8148000" />
       <workItem from="1658429360702" duration="16422000" />
       <workItem from="1658691637635" duration="257000" />
-      <workItem from="1658919642545" duration="3540000" />
+      <workItem from="1658919642545" duration="3820000" />
+      <workItem from="1659211822675" duration="10105000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658691719820</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="norm">
+      <created>1658924725772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658924725772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
