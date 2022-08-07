@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="true">
-      <change afterPath="$PROJECT_DIR$/lesson-8-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-8-js/main.js" afterDir="false" />
+    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="new1">
+      <change afterPath="$PROJECT_DIR$/lesson-9-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-9-js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-8-js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-8-js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,8 @@
       <workItem from="1658691637635" duration="257000" />
       <workItem from="1658919642545" duration="3820000" />
       <workItem from="1659211822675" duration="10856000" />
-      <workItem from="1659462955006" duration="13396000" />
+      <workItem from="1659462955006" duration="13730000" />
+      <workItem from="1659786379170" duration="9923000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -132,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659298736322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new">
+      <created>1659529090406</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659529090406</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +175,8 @@
     <MESSAGE value="git-commit-m*&#10;git status" />
     <MESSAGE value="norm" />
     <MESSAGE value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="new" />
+    <MESSAGE value="new1" />
+    <option name="LAST_COMMIT_MESSAGE" value="new1" />
   </component>
 </project>

@@ -176,3 +176,4 @@ for (const product of products) {
                         <img src="${product.image}">
                     </div>`);
 }
+
