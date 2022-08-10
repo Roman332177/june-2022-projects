@@ -30,15 +30,6 @@ let str = ' dirty string   '
 
 console.log(str.substring(1, 13));
 
-// - Напишіть функцію stringToarray(str), яка перетворює рядок на масив слів.
-//     let str = 'Ревуть воли як ясла повні';
-// let arr = stringToarray(str); ['Ревуть', 'воли', 'як', 'ясла', 'повні']
-
-// let str = 'Ревуть воли як ясла повні';
-//
-
-
-
 // - є масив чисел [10,8,-7,55,987,-1011,0,1050,0] . за допомоги map та колбеку перетворити всі об'єкти в масиві на стрінгові.
 
 let numbers = [10, 8, -7, 55, 987, -1011, 0, 1050, 0];
@@ -100,30 +91,7 @@ console.log(coursesDurationMoreThanFive);
 // // 'diamond', 'heart', 'clubs';
 //
 // //
-//
 
-// let koloda = [
-//     {
-//         cardSuit: "chresta",
-//         value: "koroleva",
-//         color: "chornui",
-//     },
-//     {
-//         cardSuit: "cherva",
-//         value: "koroleva",
-//         color: "chervonyi",
-//     },
-//     {
-//         cardSuit: "pika",
-//         value: "koroleva",
-//         color: "chornui",
-//     },
-//     {
-//         cardSuit: "bubna",
-//         value: "koroleva",
-//         color: "chervonyi",
-//     }
-// ];
 
 
 const cardsConfiguration = [
@@ -203,48 +171,6 @@ let allSpadeCards = koloda.filter(card => card.cardSuit === 'spade' && (card.val
 console.log(allSpadeCards);
 
 
-// function createGoker(value, color) {
-//     return {
-//         value: value,
-//         color: color,
-//     }
-// }
-//
-// function createDefaultCart(value, color, cardSuit) {
-//     return {
-//         value: value,
-//         cardSuit: cardSuit,
-//         color: color,
-//     }
-// }
-//
-// const cardsConfiguration = [
-//     { value: 6 },
-//     { value: 7 },
-//     { value: 8 },
-//     { value: 9 },
-//     { value: 10 },
-//     { value: 'jack' },
-//     { value: 'queen' },
-//     { value: 'king' },
-//     { value: 'ace' },
-//     { value: 'joker', joker: true },
-// ];
-// const koloda = [];
-// cardsConfiguration.forEach((cardConfiguration) => {
-//     if (cardConfiguration.joker) {
-//         const joker1 = createGoker(cardConfiguration.value, 'black')
-//         const joker2 = createGoker(cardConfiguration.value, 'red')
-//         koloda.push(joker1, joker2);
-//     } else {
-//         const card1 = createDefaultCart(cardConfiguration.value, 'black', 'spade')
-//         const card2 = createDefaultCart(cardConfiguration.value, 'red', 'diamond')
-//         const card3 = createDefaultCart(cardConfiguration.value, 'red', 'heart')
-//         const card4 = createDefaultCart(cardConfiguration.value, 'black', 'clubs');
-//         koloda.push(card1, card2, card3, card4);
-//     }
-// });
-// console.log(koloda);
 
 
 
@@ -257,3 +183,23 @@ console.log(allSpadeCards);
 //     hearts:[],
 //     clubs:[]
 // }
+
+
+const sortedKolodaBySuit = koloda.reduce((sortedKoloda, currentCart) => {
+    switch (currentCart.cardSuit) {
+        case 'spade':
+            sortedKoloda.spades.push(currentCart);
+            break;
+        case 'diamond':
+            sortedKoloda.diamonds.push(currentCart);
+            break;
+        case 'heart':
+            sortedKoloda.hearts.push(currentCart);
+            break
+        case 'clubs':
+            sortedKoloda.clubs.push(currentCart);
+            break;
+    }
+    return sortedKoloda;
+}, {spades: [], diamonds: [], hearts: [], clubs: []});
+console.log(sortedKolodaBySuit);
