@@ -46,7 +46,6 @@ console.log(numbersToString);
 // let nums = [11, 21, 3];
 
 
-
 // - є масив
 // let coursesAndDurationArray = [
 //     {title: 'JavaScript Complex', monthDuration: 5},
