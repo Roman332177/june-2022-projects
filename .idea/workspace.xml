@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="test commit mac" />
+    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="test commit mac 21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +84,7 @@
       <workItem from="1659462955006" duration="13730000" />
       <workItem from="1659786379170" duration="9923000" />
       <workItem from="1660072085522" duration="8505000" />
-      <workItem from="1660992037286" duration="86000" />
+      <workItem from="1660992037286" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -149,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660992091780</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test commit mac">
+      <created>1660992128589</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660992128589</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test commit mac 21">
+      <created>1660992319246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660992319246</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +200,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="new1" />
     <MESSAGE value="test commit mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit mac" />
+    <MESSAGE value="test commit mac 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit mac 21" />
   </component>
 </project>
