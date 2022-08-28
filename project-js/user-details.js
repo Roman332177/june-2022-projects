@@ -5,7 +5,6 @@ function getUserIdFromUrl() {
     return userId;
 }
 
-
 function createPElementForEveryProperyInObject(object, div) {
     for (const key in object) {
         if(typeof object[key]  === 'object') {

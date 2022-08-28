@@ -14,7 +14,6 @@
         div.appendChild(userName);
 
         const userDetailsLink = document.createElement('a');
-        // userDetailsLink.setAttribute('href', `user-details/${user.id}`);
         userDetailsLink.setAttribute('href', `user-details.html#${user.id}`);
         userDetailsLink.innerText = 'View user details';
         div.appendChild(userDetailsLink);

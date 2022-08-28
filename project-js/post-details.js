@@ -1,6 +1,5 @@
 
-
-    function getPostIdFromUrl() {
+function getPostIdFromUrl() {
         const postId = window.location.hash.slice(1);
         console.log('postId', postId);
         return postId;
