@@ -6,22 +6,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>User Details</title>
   <style>
+    .user-details-wrapper {
+      text-align: center;
+    }
     .posts-wrapper {
       display: flex;
       flex-wrap: wrap;
       margin-top: 40px;
+      text-align: center;
+    }
+    a {
+      text-decoration: none;
     }
     .post-wrapper {
+      border-radius: 30px;
       width: 18%;
-      background-color: aqua;
+      background-color: whitesmoke;
       margin: 10px;
       padding: 10px;
       box-sizing: border-box;
+      box-shadow: 12px 12px 2px 1px slategray;
+      transition-duration: 0.5s;
+    }
+    .post-wrapper:hover {
+      background-color: rgb(99, 124, 172);
+      color: white;
     }
     #get-posts-button {
+      background-color: white;
+      border: 1px solid black;
+      color: #474749;
+      border-radius: 20px;
       margin: auto;
       display: block;
       width: 90vw;
+      height: 30px;
+      transition-duration: 0.5s;
+    }
+    #get-posts-button:hover {
+      background-color: slategray;
+      color: white;
     }
   </style>
 </head>
