@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-js/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-js/post-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-js/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-js/user-details.html" afterDir="false" />
-    </list>
+    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="project1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +87,7 @@
       <workItem from="1660992037286" duration="313000" />
       <workItem from="1660992454286" duration="17000" />
       <workItem from="1660992502825" duration="13655000" />
-      <workItem from="1661605951578" duration="6844000" />
+      <workItem from="1661605951578" duration="7324000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -192,7 +187,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661678243514</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="project1">
+      <created>1661706369436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661706369436</updated>
+    </task>
+    <task id="LOCAL-00016" summary="project1">
+      <created>1661706482386</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661706482386</updated>
+    </task>
+    <task id="LOCAL-00017" summary="project1">
+      <created>1661706538210</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661706538210</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +249,8 @@
     <MESSAGE value="comit not all" />
     <MESSAGE value="comit all" />
     <MESSAGE value="project" />
-    <option name="LAST_COMMIT_MESSAGE" value="project" />
+    <MESSAGE value="project1" />
+    <option name="LAST_COMMIT_MESSAGE" value="project1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
