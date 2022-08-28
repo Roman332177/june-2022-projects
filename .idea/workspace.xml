@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="comit not all">
-      <change afterPath="$PROJECT_DIR$/lesson -11-js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson -11-js/main.js" afterDir="false" />
+    <list default="true" id="4b77f8b2-9f2a-425b-b664-3a2e7e97a3d3" name="Changes" comment="comit all">
+      <change afterPath="$PROJECT_DIR$/project-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-js/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junetest/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +94,8 @@
       <workItem from="1660072085522" duration="8505000" />
       <workItem from="1660992037286" duration="313000" />
       <workItem from="1660992454286" duration="17000" />
-      <workItem from="1660992502825" duration="13629000" />
+      <workItem from="1660992502825" duration="13655000" />
+      <workItem from="1661605951578" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="git-commit-m*&#10;git status">
       <created>1657103771793</created>
@@ -177,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660992364912</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="comit all">
+      <created>1661164685568</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661164685568</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +227,8 @@
     <MESSAGE value="test commit mac" />
     <MESSAGE value="test commit mac 21" />
     <MESSAGE value="comit not all" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit not all" />
+    <MESSAGE value="comit all" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit all" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
