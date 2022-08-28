@@ -1,5 +1,5 @@
 
-    function createUserBlock(user) {
+function createUserBlock(user) {
         const div = document.createElement('div');
         div.classList.add('user-item');
 

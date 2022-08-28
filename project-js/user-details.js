@@ -1,4 +1,3 @@
-
 function getUserIdFromUrl() {
     const userId = window.location.hash.slice(1);
     console.log('userId', userId);
